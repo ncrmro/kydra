@@ -23,3 +23,11 @@ Built on NixOS variations of Kydra OS are configured via and versioned using Fla
 - Distributed Deployments
 - Centralized LiteLLM
 - Preview Environments
+
+---
+
+# UI
+
+Authorize with Github
+Create Projecy namespaces, create service accounts that only certian providers can access.
+Create Deploy Environments
