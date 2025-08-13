@@ -1,0 +1,39 @@
+# Build outputs
+result
+result-*
+
+# Temporary files
+*.tmp
+*.temp
+*~
+.#*
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Secrets (encrypted files are tracked)
+secrets/*.yaml
+secrets/keys/*
+!secrets/keys/.gitkeep
+
+# Local environment
+.env
+.env.local
+
+# Backup files
+*.bak
+*.backup
+
+# Logs
+*.log
+
+# Cache directories
+.cache/
+.nix-cache/
